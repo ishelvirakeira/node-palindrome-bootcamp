@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  width: 100%;
+  background: rgb(168, 225, 168);
+  min-height: 100vh;
+}
+h1{
+    color: rgb(192, 94, 59)
+}
+input{
+    background-color: rgb(225, 218, 218);
+    color: rgb(197, 66, 88);
+ 
+}
+button{
+    background-color: rgb(180, 144, 144);
+    color: white;
+    
+}
+p{
+    color: rgb(143, 94, 4);
+}
+@media screen and (max-width:480px){
+    h1 {
+        font-size: 20px;
+    }
+
+    input, button {
+        font-size: 15px;
+        padding: 10px;
+        width: 100%;
+    }
+
+    #display {
+        font-size: 17px;;
+    }
+
+}
