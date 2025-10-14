@@ -3,6 +3,10 @@ The Palindrome Checker allows users to input a word or phrase and validates whet
 <img width="582" height="182" alt="palindrome" src="https://github.com/user-attachments/assets/976aea77-b1ca-475e-b414-ea1f96002d10" />
 
 
+Tools used: HTML, CSS, JavaScript, Node.js
+
+
+
 What I Learned:
 
 -I learned how to manipulate the node environment and accessing specific directories.
