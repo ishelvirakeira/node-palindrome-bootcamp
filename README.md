@@ -11,7 +11,7 @@ Tools used: HTML, CSS, JavaScript, Node.js
 
 What I Learned:
 
--I learned how to manipulate the node environment and accessing specific directories.
+- I learned how to manipulate the node environment and accessing specific directories.
 
 - I gained experience sending requests from the front end to the back end and processing responses dynamically.
 
